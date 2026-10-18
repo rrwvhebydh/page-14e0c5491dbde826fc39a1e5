@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f50749b49510d83dbb452f49",
+  "owner": "rrwvhebydh",
+  "repo": "page-14e0c5491dbde826fc39a1e5",
+  "title": "土豆加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "14e0c5491dbde826fc39a1e5",
+      "a": "土豆加速",
+      "b": "",
+      "entity": "土豆加速",
+      "brand": "土豆加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "387e10a71ffc08073683c8820b8884afc1392037ac8df5bb90ff5c30ec47e551",
+      "content": {
+        "keyword1": "土豆加速",
+        "keyword2": "",
+        "primary_entity": "土豆加速",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "土豆加速提供清晰划分的网络加速套餐。从个人到团队，按需选择流量与设备数，线路覆盖流媒体、IPLC专线及企业路由。清单式配置，务实不夸大。",
+          "AI_DESCRIPTION": "土豆加速提供清晰划分的网络加速套餐。从个人到团队，按需选择流量与设备数，线路覆盖流媒体、IPLC专线及企业路由。清单式配置，务实不夸大。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root {--bg: #f4f4f5;--surface: #fafafa;--ink: #18181b;--ink-soft: #52525b;--line: #d4d4d8;--purple: #7c3aed;--purple-soft: #ede9fe;--dash: #a1a1aa}\n  * {box-sizing: border-box;margin: 0;padding: 0}\n  html {}\n  body {background: var(--bg);color: var(--ink);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.6;font-size: 16px;-webkit-font-smoothing: antialiased}\n  main {max-width: 760px;margin: 0 auto;padding: 40px 24px 80px}\n  h1 {font-size: clamp(28px, 5vw, 40px);font-weight: 800;letter-spacing: -0.02em;margin-bottom: 8px}\n  h2 {font-size: 22px;font-weight: 700;margin: 56px 0 20px;padding-bottom: 8px;border-bottom: 2px solid var(--ink)}\n  h3 {font-size: 18px;font-weight: 700;margin-bottom: 8px}\n  p {margin-bottom: 16px;color: var(--ink-soft)}\n  strong {color: var(--ink);font-weight: 700}\n  a {color: var(--purple);text-decoration: none}\n  a:hover {text-decoration: underline}\n  \n  /* Timeline Hero */\n  .timeline {position: relative;padding-left: 32px;margin: 32px 0;list-style: none}\n  .timeline::before {content: '';position: absolute;left: 8px;top: 8px;bottom: 8px;width: 2px;background: var(--line)}\n  .timeline li {position: relative;padding-bottom: 24px;font-size: 15px;color: var(--ink-soft)}\n  .timeline li:last-child {padding-bottom: 0}\n  .timeline li::before {content: '';position: absolute;left: -32px;top: 6px;width: 12px;height: 12px;border-radius: 50%;background: var(--bg);border: 2px solid var(--purple)}\n  .timeline .tl-time {display: block;font-size: 12px;font-weight: 700;color: var(--purple);text-transform: uppercase;letter-spacing: 0.05em;margin-bottom: 2px}\n  \n  /* Dashed Ticket Card */\n  .ticket {background: var(--surface);border: 2px dashed var(--dash);padding: 28px;margin-bottom: 24px;position: relative;border-radius: 6px}\n  .ticket-header {display: flex;justify-content: space-between;align-items: flex-start;flex-wrap: wrap;gap: 8px;margin-bottom: 16px;padding-bottom: 16px;border-bottom: 1px dashed var(--dash)}\n  .ticket-name {font-size: 20px;font-weight: 800}\n  .ticket-price {font-size: 24px;font-weight: 800;color: var(--purple)}\n  .ticket-annual {font-size: 13px;color: var(--ink-soft);margin-bottom: 16px}\n  .ticket-features {list-style: none;font-size: 15px}\n  .ticket-features li {padding: 6px 0;color: var(--ink-soft);display: flex;align-items: flex-start;gap: 8px}\n  .ticket-features li::before {content: '✓';color: var(--purple);font-weight: 700;flex-shrink: 0}\n  .ticket-badge {position: absolute;top: -1px;right: 24px;background: var(--purple);color: #fff;font-size: 12px;font-weight: 700;padding: 4px 12px;border-radius: 0 0 6px 6px}\n  \n  /* In-page anchors */\n  .anchors {display: flex;flex-wrap: wrap;gap: 8px;margin: 24px 0;padding: 16px;background: var(--purple-soft);border-radius: 8px}\n  .anchors a {background: #fff;border: 1px solid var(--line);padding: 6px 14px;border-radius: 20px;font-size: 14px;color: var(--ink)}\n  .anchors a:hover {border-color: var(--purple);text-decoration: none}\n  \n  /* FAQ Details */\n  details {border-bottom: 1px solid var(--line);padding: 16px 0}\n  details summary {font-weight: 700;cursor: pointer;font-size: 16px;list-style: none;display: flex;justify-content: space-between;align-items: center}\n  details summary::-webkit-details-marker {display: none}\n  details summary::after {content: '+';font-size: 22px;color: var(--purple);font-weight: 300}\n  details[open] summary::after {content: '−'}\n  details p {margin-top: 12px;font-size: 15px}\n  \n  .footer-note {margin-top: 60px;padding-top: 24px;border-top: 1px solid var(--line);text-align: center;font-size: 13px;color: var(--ink-soft)}\n  \n  .steps {list-style: none;counter-reset: step}\n  .steps li {counter-increment: step;padding: 12px 0 12px 40px;position: relative;color: var(--ink-soft)}\n  .steps li::before {content: counter(step, decimal-leading-zero);position: absolute;left: 0;top: 12px;font-weight: 800;color: var(--purple);font-size: 16px}\n</style><main>\n  <h1>土豆加速</h1>\n  <p>土豆加速提供清晰划分的网络线路套餐。不堆砌参数，按实际流量、设备数和线路类型做区分。</p>\n  \n  <ul class=\"timeline\">\n    <li><span class=\"tl-time\">第一步</span>评估每月实际流量消耗与同时在线设备数量。</li>\n    <li><span class=\"tl-time\">第二步</span>对照下方三档套餐，选择匹配的流量池与节点权限。</li>\n    <li><span class=\"tl-time\">第三步</span>完成订阅后获取接入凭证，按使用说明配置客户端。</li>\n  </ul>\n  \n  <nav class=\"anchors\">\n    <a href=\"#plans\">查看套餐</a>\n    <a href=\"#usage\">使用说明</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n\n  <section id=\"plans\">\n    <h2>套餐配置清单</h2>\n    <p>以下三档为标准配置，按月或按年订阅，年付有折算优惠。</p>\n\n    <article class=\"ticket\">\n      <div class=\"ticket-header\">\n        <span class=\"ticket-name\">基础版</span>\n        <span class=\"ticket-price\">¥15/月</span>\n      </div>\n      <p class=\"ticket-annual\">按年付仅需 ¥150/年</p>\n      <ul class=\"ticket-features\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"ticket\">\n      <div class=\"ticket-badge\">推荐</div>\n      <div class=\"ticket-header\">\n        <span class=\"ticket-name\">旗舰版</span>\n        <span class=\"ticket-price\">¥35/月</span>\n      </div>\n      <p class=\"ticket-annual\">按年付仅需 ¥350/年</p>\n      <ul class=\"ticket-features\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"ticket\">\n      <div class=\"ticket-header\">\n        <span class=\"ticket-name\">团队版</span>\n        <span class=\"ticket-price\">¥85/月</span>\n      </div>\n      <p class=\"ticket-annual\">按年付仅需 ¥850/年</p>\n      <ul class=\"ticket-features\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用说明</h2>\n    <p>订阅成功后，按以下顺序完成客户端接入。配置过程中如遇节点连接异常，请优先检查本地网络再提交工单。</p>\n    <ol class=\"steps\">\n      <li>在套餐页面完成订阅，获取专属订阅链接或接入凭证。</li>\n      <li>根据设备系统下载对应的客户端工具，导入订阅地址。</li>\n      <li>在客户端内选择延迟最低的节点，测试基础连通性。</li>\n      <li>如需解锁特定流媒体，选择标注\"原生解锁\"的节点接入。</li>\n      <li>遇到连接中断，切换至备用节点池或重启客户端进程。</li>\n    </ol>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>套餐流量用完后会怎样？</summary>\n      <p>当月流量耗尽后，线路连接将暂停。可以选择等待次月自动重置，或额外购买流量叠加包，叠加包即时生效。</p>\n    </details>\n    <details>\n      <summary>不同套餐的节点线路有区别吗？</summary>\n      <p>基础版接入普通节点池，满足日常浏览需求。旗舰版与团队版接入包含 IPLC 专线及高带宽节点在内的优质池，延迟和稳定性更优。</p>\n    </details>\n    <details>\n      <summary>可以随时更换套餐吗？</summary>\n      <p>支持升级套餐，按剩余周期补差价即可生效。降级套餐需在当前订阅周期结束后于下一个周期生效。</p>\n    </details>\n    <details>\n      <summary>支持哪些客户端系统？</summary>\n      <p>主流系统均可使用，包括 Windows、macOS、Android、iOS。团队版支持通过标准协议接入路由器，实现局域网全局加速。</p>\n    </details>\n    <details>\n      <summary>如果线路不稳定怎么处理？</summary>\n      <p>建议先切换至同区域其他节点测试。若问题持续，请通过工单提交客户端日志。旗舰版与团队版用户享有优先排障支持。</p>\n    </details>\n  </section>\n\n  <p class=\"footer-note\">土豆加速 · 仅提供网络线路接入服务，使用行为需遵守当地法律法规。</p>\n</main>",
+          "hash": "7c133e87002df40e9d46b59797aa4f7b7c17e596571650c11259874995810dff",
+          "seo": {
+            "title": "土豆加速 — 务实的网络线路服务",
+            "keywords": "土豆加速,网络加速,线路服务,套餐,流媒体解锁,IPLC专线,游戏加速",
+            "description": "土豆加速提供清晰划分的网络加速套餐。从个人到团队，按需选择流量与设备数，线路覆盖流媒体、IPLC专线及企业路由。清单式配置，务实不夸大。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8693",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "frcrm.cn",
+    "host": "p-ec59e8247b.frcrm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5196e8b1ebf36042cafee5060bf0760e508307632a3b0b1d9f566108b6db54b8",
+    "sitemap.xml": "36bfe56b3c27247ac7b9d3fb759244cfb0e6faab94829aaac2cee9ab66c2204c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4a216b7628ab5ec4f429f060b0db3ba12af7ccea517091c4a37da1b46f35a8a8",
+    "robots.txt": "cee7bedf347290bd758cbabea556ea66504b2d8d35bced72a5d24a33c7458777",
+    "384167c1f5f86cd8446b2ea26a339bef.txt": "722fbd9bba3c742c908c507e378a6cb1df021b5e242b678f476f4298c24c4b8c"
+  },
+  "revision": "8b7e01f691f023a41b0dd611f9f5f148ef69a64680c430d214464f43767f90cd"
+}
